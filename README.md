@@ -1,2 +1,4 @@
 # AnalizaDanych-KML
-projekt analizy danych z komputerowych metod logistycznych 
+
+## Project objectives
+Project aims to analyze various aspects related to shipments from Sweden,  addressing specific requirements. The focus lies in understanding the relationship between shipment types, transportation modes, destinations, and their impact on transportation costs. Additionally, the project aims to identify prevalent transportation modes, considering the latest ecological trends, and assess the popularity of different Incoterms along with the influencing factors. The analysis extends to carriers, evaluating their role based on transported volume (m3), destination, Incoterms, and transportation type. Furthermore, the project incorporates predictive modeling to forecast shipments over the next 2 years, providing valuable insights for effective planning and resource management. Ultimately, the goal is to deliver a holistic analysis to optimize logistic processes, reduce costs, and align with dynamic market trends.
