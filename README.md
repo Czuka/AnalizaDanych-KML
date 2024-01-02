@@ -21,8 +21,8 @@ Use chosen tools to generate visual representations of the data. This can involv
 
 ### Predictive Modeling:
 
-    Develop predictive models to forecast future shipment volumes and demand patterns.
-    Explore machine learning algorithms to predict potential delays or bottlenecks in the logistics process.
+Develop predictive models to forecast future shipment volumes and demand patterns.
+Explore machine learning algorithms to predict potential delays or bottlenecks in the logistics process.
 
 
 
